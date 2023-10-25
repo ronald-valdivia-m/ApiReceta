@@ -1,0 +1,46 @@
+{
+    "recetas": [
+      {
+        "id": 1,
+        "usuario": "rv@gmail.com",
+        "fecha": "2023-10-24",
+        "tipo": "cena",
+        "label": "Arroz Con Pollo",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/24e/24e03d58dbdba663192dd89e7d314b49.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLWVhc3QtMSJHMEUCIQCRHoQ2hBc8q2U0T5cFkOrCmwiYJiXKVWBdv6MU9wQSfAIgRZLUMi6AD821Nz16PHFUuHs8%2Bxy6wDlEDiVQVOVoG3squAUITRAAGgwxODcwMTcxNTA5ODYiDCWkT6g9%2FxxjjxKDHSqVBTYRSLKWlQ01KAbkjjCvPdIxCjX%2FhmugwI7YRFuERiBGuHnRGbrnqN6eGopmJgTqlmrx%2FoltmZhLkKfWqJAuwsNibC8CEpRl0vjrnNKPqszgYcN7FCAIf%2B%2BPZk1L5sp7TZW3RAd8oPUfXjpyg5FCYE%2BzfGUzqaEqEscgK1Ww%2F4sTFQpZ9V3HEtrrh%2FApyaJDNtN0alNQEJlKqyH6nYwlEh9qSEvB9REv65WZfX8FG6mnrWuIy%2BJTVD2n%2BCBOjks77cU67yTqEJATSKRErxkgFpneDoTc7rE5IjdKQulGQot9iSdqygNA%2BZAxacv%2FaAg2HkM%2F1nzPmUY97MpHPI5oy5MJAp5TxahUWpV9UVsY13PIKW9bA6cg%2FA96ciXw9hPD%2B0THOfwk7syAcENVAzPGqccNgi8r0doHEK2VN20lQjzijvZEwbhND%2FTComhjv6KXph6v7aJMCJuKdOundMPrAg0bacRGk1rXqVP5wqJT1FG7hOi0k7fZbKxfr6fWwOFYGh5G89P%2FZwwGyPza7YcWRw9OfKv7WQB3TsJ0MnetcGyHGbAf70041fSJHLrOUTXg9EwopfvsmHbtl9AjU9REwd1ZAfx%2FPYegDrYQ%2FHVDMyOjPTVdFJIs6Xl4LKRvFmgQ14XfFy%2BxolpQTlIOzmQNGL0qCkuoHNakwzmOSWiEcCtNXHSm55XM7J90q1ckuWkZ65qpg0RCEPjeAtYEAaAk%2F2PITRwuB7Hty0%2FdxjLaxRe4ziM93jFQpVbQTs%2BoDgj2oEbGZBN2c2iIHU3J45E5RZqqCf1k2bKaOKimiQW3sR%2BHalK4qQFx2kgccLxdgGgzpLh2wRoq%2FMMjQpsogFuwblBo43LIbEvkqYr9zf7MkDk6wyT8hFwwzbrgqQY6sQG%2FFwPPedaCvS0H36rdcUujdtYfr7fLdsid0UfwPR1wRESojX1F7ftAcGDPyj6ePsCtcglQWuE9u1HnG1pMit8fqU0CELdxaZfNmgyvlyjJ0sgEFyR1QAEwbtbOkCsLLXCxaKWlF7sGImQ2oMaKIVrs%2F7QLCTPW6V6cjw79u5wO6edsGc8t5NUUHIFqhXYVjcJhO1DRFwv2gXE03D16A8QK%2BhLJYisSsnZ7MB8XyIeLXuk%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231024T205925Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFJ3RUOUGW%2F20231024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c73d5e0b77cc183a8d82447d070b2cb755daf0ec6818d665506251af7c172450",
+        "healthLabels": "Sugar-Conscious, Kidney-Friendly, Mediterranean, Dairy-Free, Gluten-Free, Wheat-Free, Egg-Free, Peanut-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free, Pork-Free, Red-Meat-Free, Crustacean-Free, Celery-Free, Mustard-Free, Sesame-Free, Lupine-Free, Mollusk-Free, Kosher",
+        "ingredientLines": "3/4 cup dry white wine\npinch of saffron threads (just a few strands is plenty)\n4 chicken thighs (skin on)\nsalt and pepper for seasoning chicken\n3 tablespoons olive oil\n1 small onion, diced\n2 cloves garlic, minced\n1- 14.5 ounce can diced tomatoes (mostly drained)\n1 bay leaf\nabout 1 1/2 teaspoons salt (or to taste) and 1 teaspoon coarse ground black pepper\n2 1/4 cups chicken broth (you may need a bit more)\n1 1/2 cups white rice\nscant 1 cup large green pimento olives",
+        "yield": "14",
+        "calories": "3709 kcal",
+        "protein": "165 g",
+        "fat": "192 g",
+        "carbs": "288 g",
+        "cholesterol": "773 mg",
+        "sodium": "5258 mg",
+        "calcium": "378 mg",
+        "magnesium": "333 mg",
+        "potassium": "3201 mg",
+        "iron": "21 mg"
+      },
+      {
+        "id": 2,
+        "usuario": "rv@gmail.com",
+        "fecha": "2023-10-25",
+        "tipo": "almuerzo",
+        "label": "Gingered Sweet Potato-ham Causa Recimeal Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/8ac/8ac0609cf94947a547f392dbcd4070db.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLWVhc3QtMSJHMEUCIQCRHoQ2hBc8q2U0T5cFkOrCmwiYJiXKVWBdv6MU9wQSfAIgRZLUMi6AD821Nz16PHFUuHs8%2Bxy6wDlEDiVQVOVoG3squAUITRAAGgwxODcwMTcxNTA5ODYiDCWkT6g9%2FxxjjxKDHSqVBTYRSLKWlQ01KAbkjjCvPdIxCjX%2FhmugwI7YRFuERiBGuHnRGbrnqN6eGopmJgTqlmrx%2FoltmZhLkKfWqJAuwsNibC8CEpRl0vjrnNKPqszgYcN7FCAIf%2B%2BPZk1L5sp7TZW3RAd8oPUfXjpyg5FCYE%2BzfGUzqaEqEscgK1Ww%2F4sTFQpZ9V3HEtrrh%2FApyaJDNtN0alNQEJlKqyH6nYwlEh9qSEvB9REv65WZfX8FG6mnrWuIy%2BJTVD2n%2BCBOjks77cU67yTqEJATSKRErxkgFpneDoTc7rE5IjdKQulGQot9iSdqygNA%2BZAxacv%2FaAg2HkM%2F1nzPmUY97MpHPI5oy5MJAp5TxahUWpV9UVsY13PIKW9bA6cg%2FA96ciXw9hPD%2B0THOfwk7syAcENVAzPGqccNgi8r0doHEK2VN20lQjzijvZEwbhND%2FTComhjv6KXph6v7aJMCJuKdOundMPrAg0bacRGk1rXqVP5wqJT1FG7hOi0k7fZbKxfr6fWwOFYGh5G89P%2FZwwGyPza7YcWRw9OfKv7WQB3TsJ0MnetcGyHGbAf70041fSJHLrOUTXg9EwopfvsmHbtl9AjU9REwd1ZAfx%2FPYegDrYQ%2FHVDMyOjPTVdFJIs6Xl4LKRvFmgQ14XfFy%2BxolpQTlIOzmQNGL0qCkuoHNakwzmOSWiEcCtNXHSm55XM7J90q1ckuWkZ65qpg0RCEPjeAtYEAaAk%2F2PITRwuB7Hty0%2FdxjLaxRe4ziM93jFQpVbQTs%2BoDgj2oEbGZBN2c2iIHU3J45E5RZqqCf1k2bKaOKimiQW3sR%2BHalK4qQFx2kgccLxdgGgzpLh2wRoq%2FMMjQpsogFuwblBo43LIbEvkqYr9zf7MkDk6wyT8hFwwzbrgqQY6sQG%2FFwPPedaCvS0H36rdcUujdtYfr7fLdsid0UfwPR1wRESojX1F7ftAcGDPyj6ePsCtcglQWuE9u1HnG1pMit8fqU0CELdxaZfNmgyvlyjJ0sgEFyR1QAEwbtbOkCsLLXCxaKWlF7sGImQ2oMaKIVrs%2F7QLCTPW6V6cjw79u5wO6edsGc8t5NUUHIFqhXYVjcJhO1DRFwv2gXE03D16A8QK%2BhLJYisSsnZ7MB8XyIeLXuk%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231024T210558Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFJ3RUOUGW%2F20231024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7607d7b2ce5b89024880ae2bcc342491c2e225211ea6c3d1197783ae005665a1",
+        "healthLabels": "Dairy-Free, Gluten-Free, Wheat-Free, Tree-Nut-Free, Soy-Free, Fish-Free, Shellfish-Free, Crustacean-Free, Celery-Free, Sesame-Free, Lupine-Free, Mollusk-Free, Alcohol-Free, Kosher",
+        "ingredientLines": "2 cans (14 1/2 ounces each) sweet potatoes in light syrup, drained\nJuice of 1 large orange\n1/2 teaspoon cinnamon\n2 cans (5 ounces each) ham in water, drained\n2 green onions, chopped\n1/4 cup light mayonnaise\n1 tablespoon dijon mustard\nVegetable oil spray\n1 can (8 ounces) pineapple tidbits, drained slightly\n1 small red bell pepper, chopped\n6 tablespoons chopped, unsalted peanuts, divided\n1/2 cup golden raisins\n2 tablespoons fresh chopped mint\n1 tablespoon freshly grated ginger",
+        "yield": "6",
+        "calories": "2086 kcal",
+        "protein": "38 g",
+        "fat": "74 g",
+        "carbs": "339 g",
+        "cholesterol": "0 mg",
+        "sodium": "1264 mg",
+        "calcium": "529 mg",
+        "magnesium": "405 mg",
+        "potassium": "3600 mg",
+        "iron": "18 mg"
+      }
+    ]
+  }
